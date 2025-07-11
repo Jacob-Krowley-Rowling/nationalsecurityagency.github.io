@@ -465,6 +465,14 @@
       "homepage": ""
     },
     {
+      "name": "SeaBee",
+      "html_url": "https://github.com/NationalSecurityAgency/seabee",
+      "forks_count": 4,
+      "stargazers_count": 18,
+      "description": "SeaBee enforces policy-based access control on eBPF objects",
+      "homepage": ""
+    },
+    {
       "name": "Pass-the-Hash-Guidance",
       "html_url": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
       "forks_count": 53,

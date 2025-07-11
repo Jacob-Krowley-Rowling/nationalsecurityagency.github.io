@@ -2212,6 +2212,44 @@
       ]
     },
     {
+      "name": "SeaBee",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/seabee",
+      "description": "SeaBee enforces policy-based access control on eBPF objects",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/seabee/blob/main/LICENSE",
+            "name": "Apache License 2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/Research/Technology-Transfer-Program/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/seabee",
+      "downloadURL": "https://github.com/NationalSecurityAgency/seabee/archive/main.zip",
+      "date": {
+        "created": "2025-06-25",
+        "metadataLastUpdated": "2025-06-25",
+        "lastModified": "2025-06-25"
+      },
+      "languages": [
+        "Rust",
+        "C",
+        "Shell",
+        "Makefile",
+        "Dockerfile"
+      ]
+    },
+    {
       "name": "Pass-the-Hash-Guidance",
       "repositoryURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
       "description": "Configuration guidance for implementing Pass-the-Hash mitigations. #nsacyber",
